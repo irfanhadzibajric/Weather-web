@@ -1,0 +1,94 @@
+body{
+    margin:0;
+    padding: 0;
+    background: url(poz.jpg);
+    background-size: auto;
+    background-position: center;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-color:#0C0E27;
+}
+#tekst{
+    text-align: center;
+    font-size: 22px;
+    font-family: sans-serif;
+    color: white;
+
+    /*
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    height: 97%;
+    */
+
+}
+
+#odj {
+    border: none;
+    position: absolute;
+    top:40px;
+    right: 40px;
+    outline: none;
+    height: 40px;
+    background: #000;
+    color: #fff;
+    font-size:18px;
+    border-radius: 20px;
+}
+
+#odj:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
+.weather {
+    text-align: center;
+    font-size: 22px;
+    font-family: sans-serif;
+    color: white;
+}
+
+
+h2{
+    color:white;
+}
+.lokacija  p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    color: white;
+
+}
+
+
+.lokacija input[type="text"]{
+
+    border: none;
+    text-align: center;
+    border-bottom: 1px solid #ffc107;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px; 
+
+}
+
+.lokacija button{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #000;
+    color: #fff;
+    font-size:18px;
+    border-radius: 20px;
+
+}
+
+.lokacija button:hover
+{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+
