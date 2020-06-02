@@ -1,4 +1,4 @@
-# Weather-web-
+# Weather-web
 Naziv Fakulteta: Fakultet za saobraćaj i komunikacije  
 Naziv projekta: Aplikacija za vremensku prognozu  
 Imena učesnika projekta:   
